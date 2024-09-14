@@ -7,7 +7,7 @@ Project Title
 pdsnd_github
 
 Description
-In this project, we embark on a data exploration journey through bike share systems in three major U.S. cities: Chicago, New York City, and Washington. Our goal is to provide an interactive terminal-based experience that allows users to answer intriguing questions by employing descriptive statistics.
+In this project, we embark on a data exploration journey through bike share systems in three major U.S. cities: Chicago, New York City, and Washington in 2017. Our goal is to provide an interactive terminal-based experience that allows users to answer intriguing questions by employing descriptive statistics.
 
 Files used
 bikeshare.py
